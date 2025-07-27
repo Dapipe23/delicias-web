@@ -13,6 +13,25 @@
 
 ---
 
+1. Home (Inicio)
+   - Bienvenida
+   - Historia de Doña Elvia
+   - Logo de la panadería
+
+2. Productos
+   - Galería de productos destacados
+   - Nombre, imagen y breve descripción
+
+3. Menú en PDF
+   - Botón para visualizar o descargar el menú completo
+
+4. Contacto
+   - Dirección
+   - WhatsApp con enlace directo
+   - Horarios de atención
+
+---
+
 ## 🛠️ Tecnologías utilizadas
 
 - **HTML5**: estructura semántica del sitio.
